@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "absentbydesign:block/slab_snow" },
+        "type=top": { "model": "absentbydesign:block/slab_snow_upper" },
+        "type=double": { "model": "block/snow_block" }
+    }
+}
