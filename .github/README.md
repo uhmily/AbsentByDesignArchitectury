@@ -1,8 +1,8 @@
 # Absent by Design
 
-A Minecraft mod built on the Forge API [https://files.minecraftforge.net/](https://files.minecraftforge.net)
+A Minecraft mod built on the Architectury API [https://github.com/architectury](https://github.com/architectury)
 
-Project page with releases: https://www.curseforge.com/minecraft/mc-mods/absent-by-design
+Project page with releases: https://github.com/uhmily/AbsentByDesignArchitectury/releases
 
 
 [![](http://cf.way2muchnoise.eu/305840.svg)](https://minecraft.curseforge.com/projects/absent-by-design) 
